@@ -1,3 +1,3 @@
 # CitiBike_Analysis1
 [Link to Dashboard]
-https://10az.online.tableau.com/t/ryancabaong/authoring/Citibikedata/Dashboard1/Sheet%208#1
+https://public.tableau.com/app/profile/ryan.cabaong/viz/Citibike1_16473188208250/Dashboard1#1
