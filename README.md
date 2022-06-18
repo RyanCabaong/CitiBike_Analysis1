@@ -20,6 +20,7 @@ During the weekends when people have time to bike, the rates expand by nearly 40
 
 ![time of day averg](https://user-images.githubusercontent.com/79386482/173475334-fcd85e2d-948c-4173-809a-f32732b9a786.PNG)
 
-Conjointly, this 2D heatmap represents the activity from individual users (Dark blue represents high activity and white represents low or no activity).
+Conjointly, this 2D heatmap represents the activity from individual users
+(Dark blue represents high activity and white represents low or no activity).
 
 ![bike id repair](https://user-images.githubusercontent.com/79386482/174419334-da5a03c6-3399-40c1-a464-9a917be4bad9.PNG)
